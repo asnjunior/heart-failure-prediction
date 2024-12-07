@@ -171,7 +171,7 @@ To learn more about our methodology, results, and insights, view the complete [*
 
 ## 🎥 Project Video
 
-## [Sehroz Khan: Video](https://drive.google.com/file/d/1pRQOlk_Dy2iykZyWfIYfJ85DiYqEu5u5/view?usp=drive_link)
+
 
 ---
 
