@@ -170,7 +170,7 @@ To learn more about our methodology, results, and insights, view the complete [*
 ---
 
 ## 🎥 Project Video
-[Alfredo N: Video]([https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i/view](https://drive.google.com/file/d/1_mzvxNAS8Y5VHrz4nLDjpvzGiAO1mZNL/view?usp=sharing))
+[Alfredo N: Video](https://drive.google.com/file/d/1_mzvxNAS8Y5VHrz4nLDjpvzGiAO1mZNL/view?usp=drive_link)
 
 
 ---
